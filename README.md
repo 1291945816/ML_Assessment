@@ -138,7 +138,7 @@ def image_handle(filename):
 
 3. 
 
-![]()
+![](https://github.com/1291945816/ML_Assessment/blob/master/Image/%E5%AD%98%E5%9C%A8%E9%94%99%E8%AF%AF%E6%A0%B7%E4%BE%8B.png)
 
 **以上程序比较简单，不具备实际的生活应用的作用，但对于学习机器学习的基础算法有较大的帮助，同时也有助于对验证码识别的一个自我优化实现。**
 
